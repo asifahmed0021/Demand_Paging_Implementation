@@ -1,5 +1,5 @@
 Command to execute the program:
-1) g++ B17EE013.cpp
+1) g++ main.cpp
 2) ./a.out
 Four inputs after this 2 commands will be following:
 1) First line contains total number of processes (k)
