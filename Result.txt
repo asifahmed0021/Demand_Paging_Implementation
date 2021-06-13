@@ -1,0 +1,293 @@
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 1
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 1
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 1
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 1
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 1
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 2
+Process P5:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 1
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 4
+Process P5:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 3
+Process P5:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 1 for Process 5 for page number 0
+Process P5 execution completed with number of page faults= 48
+..........................................................................................................
+Process P3:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 2
+Process P3:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 0
+Process P3:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 1
+Process P3:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 4
+Process P3:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 4
+Process P3:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 3
+Process P3:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 2
+Process P3:for page reference 5, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 5
+Process P3:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 1
+Process P3:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 3
+Process P3:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 0
+Process P3:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 0
+Process P3:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 1
+Process P3:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 4
+Process P3:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 1
+Process P3:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 1
+Process P3:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 1
+Process P3:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 3
+Process P3:for page reference 4, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 4
+Process P3:for page reference 5, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 5
+Process P3:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 0
+Process P3:for page reference 5, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 5
+Process P3:for page reference 5, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 5
+Process P3:for page reference 3, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 3 for page number 3
+Process P3 execution completed with number of page faults= 24
+..........................................................................................................
+Process P7:for page reference 0, TLB miss; page fault occurred
+Free frame used for Process 7 for page number 0 given frame number 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7:for page reference 0, TLB hit; with frame number: 2
+Process P7 execution completed with number of page faults= 1
+..........................................................................................................
+Process P2:for page reference 1, TLB miss; page fault occurred
+Free frame used for Process 2 for page number 1 given frame number 3
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2:for page reference 0, TLB miss; page fault occurred
+LRU used to replace frame number 3 for Process 2 for page number 0
+Process P2:for page reference 1, TLB hit; with frame number: 3
+Process P2 execution completed with number of page faults= 9
+..........................................................................................................
+Process P6:for page reference 0, TLB miss; page fault occurred
+Free frame used for Process 6 for page number 0 given frame number 4
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 2
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 0, TLB hit; with frame number: 4
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 4 for Process 6 for page number 1
+Process P6 execution completed with number of page faults= 20
+..........................................................................................................
+Process P4:for page reference 0, TLB miss; page fault occurred
+No free frame or local frame found so replacing frame of process P3 with process P4 in frame 0
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 1, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 1
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 0, TLB hit; with frame number: 0
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4:for page reference 2, TLB miss; page fault occurred
+LRU used to replace frame number 0 for Process 4 for page number 2
+Process P4 execution completed with number of page faults= 19
+..........................................................................................................
+Process P1:for page reference 0, TLB miss; page fault occurred
+No free frame or local frame found so replacing frame of process P4 with process P1 in frame 0
+Process P1:for page reference 0, TLB hit; with frame number: 0
+Process P1:for page reference 0, TLB hit; with frame number: 0
+Process P1:for page reference 0, TLB hit; with frame number: 0
+Process P1:for page reference 0, TLB hit; with frame number: 0
+Process P1:for page reference 0, TLB hit; with frame number: 0
+Process P1 execution completed with number of page faults= 1
+..........................................................................................................
+All processes executed successfully!
